@@ -92,3 +92,45 @@ h2{
     
 }
 
+/* resolution 1440 or greater */
+
+@media(min-width:1440px){
+
+    .card{
+        height: 30rem;
+        width: 40rem;
+        margin: 15rem auto;
+        border-radius: 10px;
+        background-color: var(--white);
+        padding: 0;
+        display: grid;
+        grid-template-areas:
+        "main aside"
+        "main aside"
+        "main aside";
+        grid-template-rows: 40% 55% 5%;
+        grid-template-columns: 50% 50%;
+    }
+
+    .product-img{
+        width: 100%;
+        grid-area: main;
+    }
+    .product-info{
+        grid-area: aside;
+        justify-content: space-between; 
+        padding: 1rem;   
+        margin-left: 1rem;
+    }
+    .card-img{
+        height: 30rem;
+        width: 20rem;
+
+        
+    }
+    h2{
+        font-size: 3rem;
+        font-family: 700;
+        line-height: 1;
+    }
+}
