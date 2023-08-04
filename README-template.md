@@ -35,7 +35,7 @@ Desktop solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub?share=true)
 - Live Site URL: [Add live site URL here](https://elaborate-empanada-472c2e.netlify.app)
 
 ## My process
