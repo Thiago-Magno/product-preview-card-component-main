@@ -31,7 +31,7 @@ Mobile solution
 ![](./design/mobile-design.jpg)
 
 Desktop solution
-![](./design/desktop-solution.png)
+![](./design/desktop-solution2.png)
 
 ### Links
 
